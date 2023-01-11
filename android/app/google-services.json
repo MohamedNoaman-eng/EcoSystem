@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482814965997",
+    "project_id": "ecosystem-8774d",
+    "storage_bucket": "ecosystem-8774d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482814965997:android:2fd953d44a0c0816d674e4",
+        "android_client_info": {
+          "package_name": "www.reviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482814965997-svmp42joodfk00ch40hpl173nh0vnko2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtddh_-6eGkmVfFq_Wsp5MIYkYbsAE17I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482814965997-svmp42joodfk00ch40hpl173nh0vnko2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
